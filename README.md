@@ -181,4 +181,6 @@ python3 app.py
 6. **Verify on the Browser**<br>
 Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or [http://localhost:5000](http://localhost:5000) 
  ## Project Screenshots<br>
+ ![Screenshot from 2023-06-06 22-38-55](https://github.com/Bahiru-Yimolal/Project-Fyyur/assets/88880193/d79c9398-2a91-4a63-a4d1-beb205d6a21c)
+
 
