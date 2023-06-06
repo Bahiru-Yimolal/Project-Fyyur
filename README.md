@@ -182,5 +182,13 @@ python3 app.py
 Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or [http://localhost:5000](http://localhost:5000) 
  ## Project Screenshots<br>
  ![Screenshot from 2023-06-06 22-38-55](https://github.com/Bahiru-Yimolal/Project-Fyyur/assets/88880193/d79c9398-2a91-4a63-a4d1-beb205d6a21c)
+ ![Screenshot from 2023-06-06 22-39-53](https://github.com/Bahiru-Yimolal/Project-Fyyur/assets/88880193/3ab74edf-c760-4e8a-890d-91a294265c47)
+![Screenshot from 2023-06-06 22-39-58](https://github.com/Bahiru-Yimolal/Project-Fyyur/assets/88880193/959e2883-7cee-4d96-b5a9-41e5572bb85c)
+![Screenshot from 2023-06-06 22-41-33](https://github.com/Bahiru-Yimolal/Project-Fyyur/assets/88880193/07a38453-4847-4082-9245-15ca41c3c69e)
+![Screenshot from 2023-06-06 22-41-43](https://github.com/Bahiru-Yimolal/Project-Fyyur/assets/88880193/53ee5711-4975-4573-9f33-ac5fc762db77)
+![Screenshot from 2023-06-06 22-41-47](https://github.com/Bahiru-Yimolal/Project-Fyyur/assets/88880193/3768f5d0-292d-44e3-9d4f-fc4b48ea8d23)
+![Screenshot from 2023-06-06 22-42-04](https://github.com/Bahiru-Yimolal/Project-Fyyur/assets/88880193/9a243169-cd84-4303-88b1-0f4cec7e4c06)
+![Screenshot from 2023-06-06 22-42-13](https://github.com/Bahiru-Yimolal/Project-Fyyur/assets/88880193/ba8dfd4b-e7d9-4310-acfc-3704ede28b46)
+![Screenshot from 2023-06-06 22-42-41](https://github.com/Bahiru-Yimolal/Project-Fyyur/assets/88880193/ffb38a36-7ce8-4867-ae4e-9abdc071d620)
 
 
